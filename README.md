@@ -8,6 +8,8 @@ Community powered freetekno live project
 
 The best way to contribute to this project is to add your own creations starting from your own DAW. You can share samples, arrangements, instruments, automated workflows and/or anything useful to your opinion by sending a simple merge request.
 
+Folder hierarchy will be consolidated as soon as possible to avoid confusion for contributors.
+
 *IMPORTANT*: no copyrighted content is allowed. Any unlegit bit will not be merged and will be removed from the repository if already in place.
 
 ### Ableton Live
