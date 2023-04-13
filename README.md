@@ -1,2 +1,6 @@
 # freetekno
-Community powered freetekno live project with instruments, arrangements and samples free to use
+Community powered freetekno live project
+
+- All instruments, arrangements and samples are free to use in any context.
+
+_FreeTekno is alive_
