@@ -6,7 +6,7 @@ Community powered freetekno live project
 
 ## DAW
 
-The best way to contribute to this project is to add your own creations starting from your own DAW. You can share samples, arrangements, instruments, automated workflows adn anything useful by sending a simple merge request.
+The best way to contribute to this project is to add your own creations starting from your own DAW. You can share samples, arrangements, instruments, automated workflows and/or anything useful to your opinion by sending a simple merge request.
 
 *IMPORTANT*: no copyrighted content is allowed. Any unlegit bit will not be merged and will be removed from the repository if already in place.
 
